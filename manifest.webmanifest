@@ -1,0 +1,18 @@
+{
+  "name": "SEEKER — Navegador Multimídia",
+  "short_name": "SEEKER",
+  "description": "Explore a web e assista com seu player multimídia pessoal.",
+  "start_url": "./#home",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#080b14",
+  "theme_color": "#080b14",
+  "icons": [
+    {
+      "src": "./icons/seeker.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
